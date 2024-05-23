@@ -1,0 +1,23 @@
+
+.header{ 
+    background-color: #141D33;
+    background-image: url(../image/bg.png);
+    background-size: 1500px;
+    margin-bottom: -400px;
+    background-repeat: no-repeat;   
+    background-position: center;
+}
+.n1{
+    color: rgb(249, 233, 233);
+}
+.show{
+    width: 1393px;
+}
+.sun{
+   margin-left: 0px;
+/* margin-left: 400px; */
+
+/* margin-left: 400px; 
+margin-bottom: -400px; */
+ 
+}
